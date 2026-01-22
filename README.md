@@ -42,11 +42,11 @@ A modern movie management application where users can view, manage, and interact
 ## 📦 Installation & Setup
 
 To run this project locally, follow the steps below:
-### 
-```md
+
 ```bash
 git clone https://github.com/karakayaezgi/Movie-Management.git
 cd Movie-Management
 npm install
 npm run dev
+
 
