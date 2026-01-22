@@ -16,8 +16,10 @@ A modern movie management application where users can view, manage, and interact
 
 ## 🖼️ Screenshots
 
-![First-view](./assets/images/landing-page.png)
-
+![landing-page](./assets/images/landing-page.png)
+![add-film-modal](./assets/images/add-film-modal.png)
+![movie-list](./assets/images/movie-list.png)
+![watched-filter](./assets/images/watched-filter.png)
 
 ---
 
