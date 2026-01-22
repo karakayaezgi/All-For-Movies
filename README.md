@@ -16,16 +16,16 @@ A modern movie management application where users can view, manage, and interact
 
 ## 🖼️ Screenshots
 
-![landing-page](./assets/images/landing-page.png)
-![add-film-modal](./assets/images/add-film-modal.png)
-![movie-list](./assets/images/movie-list.png)
-![watched-filter](./assets/images/watched-filter.png)
+![landing-page](./src/assets/images/landing-page.png)
+![add-film-modal](./src/assets/images/add-film-modal.png)
+![movie-list](./src/assets/images/movie-list.png)
+![watched-filter](./src/assets/images/watched-filter.png)
 
 ---
 
 ## 🎥 Demo Video
 
-👉 [Watch Demo Video](./assets/videos/demo-video.mp4)
+👉 [Watch Demo Video](./src/assets/videos/demo-video.mp4)
 
 > The demo video showcases the main features and user flow of the application.
 
