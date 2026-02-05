@@ -1,4 +1,4 @@
-# 🎬 Movie Management
+# 🎬 All For Movies
 
 A modern movie management application where users can view, manage, and interact with movie data through a clean and user-friendly interface.
 
